@@ -1,0 +1,69 @@
+{
+  "data": {
+    "filters": {
+      "option" : {
+        "title" : "",
+        "tag" : "option",
+        "items": [
+          {
+            "id": 1,
+            "tag" : "favoris",
+            "label": "Favoris"
+          },
+          {
+            "id": 2,
+            "tag" : "double_tennis",
+            "label": "Doubles tennis"
+          },
+          {
+            "id": 4,
+            "tag" : "double_tennis",
+            "label": "Doubles tennis"
+          },
+          {
+            "id": 3,
+            "tag" : "double_tennis",
+            "label": "Doubles tennis"
+          }
+        ]
+      },
+      "surface" : {
+        "title" : "Surface de jeu",
+        "tag" : "surfaces",
+        "items": [
+          {
+            "id": 1,
+            "label": "Dur"
+          },
+          {
+            "id": 2,
+            "label": "Terre battue"
+          },
+          {
+            "id": 3,
+            "label": "Gazon"
+          }
+        ]
+      },
+      "court" : {
+        "title" : "Cours de tennis ",
+        "tag" : "courts",
+        "items": [
+          {
+            "id": 1,
+            "label": "Couvert"
+          },
+          {
+            "id": 2,
+            "label": "Extérieur"
+          }
+        ]
+      },
+      "distance" : {
+        "min" : 0,
+        "max" : 200,
+        "step" : 10
+      }
+    }
+  }
+}
