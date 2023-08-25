@@ -3,23 +3,21 @@
        "sites" : [
              {
                         "image": "",
-                        "tag": "double_tennis",
-                        "label": "Doubles tennis"
+                        "tag": "wecima",
+                        "label": "we cime",
+                         "Url":"https://wecima.click"
+            },
+            {
+                         "image": "",
+                        "tag": "akwam",
+                        "label": "akwame",
+                         "Url":"https://akwam.cc"
             },
             {
                         "image": "",
-                        "tag": "double_tennis",
-                        "label": "Doubles tennis"
-            },
-{
-                        "image": "",
-                        "tag": "double_tennis",
-                        "label": "Doubles tennis"
-            },
-{
-                        "image": "",
-                        "tag": "double_tennis",
-                        "label": "Doubles tennis"
+                        "tag": "arabseed",
+                        "label": "Arab seed",
+                         "Url":"https://f1.arbsd3.lol"
             }
           ]
 
