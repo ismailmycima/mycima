@@ -26,7 +26,21 @@
                   "sousUrl":"/category/series/anime/"
                }
             ]
+         },
+         {
+            "tag":"lodyNet",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/tag/افلام-باكستانية-مترجمة/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/مسلسلات-هنديه/"
+               }
+            ]
          }
+         
       ]
    }
 }
