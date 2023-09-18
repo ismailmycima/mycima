@@ -39,6 +39,19 @@
                   "sousUrl":"/category/مسلسلات-هنديه/"
                }
             ]
+         },
+         {
+            "tag":"cimaTokTok",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/series-9/مسلسلات-اجنبي/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/movies-33/افلام-اجنبي/"
+               }
+            ]
          }
          
       ]
