@@ -2,15 +2,28 @@
    "data":{
       "homePage":[
          {
-            "tag":"",
+            "tag":"wecima",
             "itemHome":[
                {
-                  "name":"",
-                  "sousUrl":""
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/movies/best/"
                },
                {
-                  "name":"",
-                  "sousUrl":""
+                  "name":"افضل الافلام",
+                  "sousUrl":"/seriestv/best/"
+               }
+            ]
+         },
+          {
+            "tag":"arabLionz",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/series/english-series/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/series/anime/"
                }
             ]
          }
