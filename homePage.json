@@ -66,6 +66,20 @@
                }
             ]
          }
+         ,
+         {
+            "tag":"qiste",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/watch/tvshows/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/watch/movies/"
+               }
+            ]
+         }
          
       ]
    }
