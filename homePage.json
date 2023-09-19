@@ -52,6 +52,19 @@
                   "sousUrl":"/category/movies-33/افلام-اجنبي/"
                }
             ]
+         },
+         {
+            "tag":"faselHd",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/asian-episodes"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/movies"
+               }
+            ]
          }
          
       ]
