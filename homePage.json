@@ -15,6 +15,33 @@
             ]
          },
           {
+            "tag":"egydead",
+            "itemHome":[
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/"
+               },
+               {
+                  "name":"مسلسلات اسيوية",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/"
+               },
+               {
+                  "name":"افلام اسيوية",
+                  "sousUrl":"/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/"
+               }
+            
+            ]
+         },
+         
+          {
             "tag":"arabLionz",
             "itemHome":[
                {
