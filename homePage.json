@@ -119,6 +119,20 @@
                   "sousUrl":"/category/series/مسلسلات-اجنبي-english/"
                }
             ]
+         },
+         {
+            "tag":"ardrama",
+            "itemHome":[
+               {
+                  "name":"الدراما الكورية",
+                  "sousUrl":"/category/serie/korea/"
+               },
+               {
+                  "name":"افلام اسيوية",
+                  "sousUrl":"/category/الافلام-الآسيوية/"
+               
+               }
+            ]
          }
          
       ]
