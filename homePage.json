@@ -14,6 +14,19 @@
                }
             ]
          },
+         {
+            "tag":"akwam",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/series"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/movies"
+               }
+            ]
+         },
           {
             "tag":"egydead",
             "itemHome":[
