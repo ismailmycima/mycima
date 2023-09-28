@@ -15,6 +15,19 @@
             ]
          },
          {
+            "tag":"dramaCafe",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/category.php?cat=aflam-araby1/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/category.php?cat=moslslat-arabia"
+               }
+            ]
+         },
+         {
             "tag":"arab_seed",
             "itemHome":[
                {
