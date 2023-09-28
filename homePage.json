@@ -14,6 +14,32 @@
                }
             ]
          },
+         {
+            "tag":"arab_seed",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/category/foreign-movies/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/category/arabic-movies-5/"
+               }
+            ]
+         },
+           {
+            "tag":"wecima",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/movies/best/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/seriestv/"
+               }
+            ]
+         },
            {
             "tag":"cimaNow",
             "itemHome":[
