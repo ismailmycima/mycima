@@ -14,6 +14,19 @@
                }
             ]
          },
+           {
+            "tag":"cimaNow",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/category/افلام-نتفليكس/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/category/مسلسلات-نتفليكس/"
+               }
+            ]
+         },
          {
             "tag":"akwam",
             "itemHome":[
