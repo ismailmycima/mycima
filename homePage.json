@@ -47,25 +47,20 @@
             "tag":"arab_seed",
             "itemHome":[
                {
-                  "name":"اخر الاضافات",
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/arabic-movies-5/"
+               },
+               {
+                  "name":"افلام اجنبية",
                   "sousUrl":"/category/foreign-movies/"
                },
-               {
-                  "name":"افضل الافلام",
-                  "sousUrl":"/category/arabic-movies-5/"
-               }
-            ]
-         },
-           {
-            "tag":"wecima",
-            "itemHome":[
-               {
-                  "name":"اخر الاضافات",
-                  "sousUrl":"/movies/best/"
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/arabic-series"
                },
                {
-                  "name":"افضل الافلام",
-                  "sousUrl":"/seriestv/"
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/foreign-series/"
                }
             ]
          },
@@ -126,11 +121,23 @@
             "tag":"arabLionz",
             "itemHome":[
                {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/movies/english-movies/"
+               },
+               {
                   "name":"مسلسلات اجنبية",
                   "sousUrl":"/category/series/english-series/"
                },
                {
-                  "name":"افلام اجنبية",
+                  "name":"عروض مصارعة",
+                  "sousUrl":"/category/other-shows/wrestling/"
+               },
+               {
+                  "name":"افلام كارتون",
+                  "sousUrl":"/category/movies/cartoon/"
+               },
+               {
+                  "name":"انمي",
                   "sousUrl":"/category/series/anime/"
                }
             ]
