@@ -222,12 +222,20 @@
          {
             "tag":"cima4u",
             "itemHome":[
-               {
-                  "name":"مسلسلات اجنبية",
-                  "sousUrl":"/category/series/مسلسلات-اجنبي-english/"
+                {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/arabic-movies/"
                },
                {
                   "name":"افلام اجنبية",
+                  "sousUrl":"/category/افلام-اجنبي-movies7-english/"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/series/مسلسلات-عربية-arabic-series/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
                   "sousUrl":"/category/series/مسلسلات-اجنبي-english/"
                }
             ]
