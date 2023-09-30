@@ -5,12 +5,20 @@
             "tag":"wecima",
             "itemHome":[
                {
-                  "name":"اخر الاضافات",
-                  "sousUrl":"/movies/best/"
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/افلام-arabic-movies-افلام-عربي"
                },
                {
-                  "name":"افضل الافلام",
-                  "sousUrl":"/seriestv/"
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/افلام-movies-english-افلام-اجنبي"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/مسلسلات-series-arabic-مسلسلات-عربية"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/مسلسلات-series-english-مسلسلات-اجنبي"
                }
             ]
          },
