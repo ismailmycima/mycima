@@ -26,12 +26,20 @@
             "tag":"dramaCafe",
             "itemHome":[
                {
-                  "name":"اخر الاضافات",
-                  "sousUrl":"/category.php?cat=aflam-araby1/"
+                  "name":"افلام عربية",
+                  "sousUrl":"/category.php?cat=aflam-araby1"
                },
                {
-                  "name":"افضل الافلام",
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category.php?cat=aflam-agnaby"
+               },
+                {
+                  "name":"مسلسلات عربية",
                   "sousUrl":"/category.php?cat=moslslat-arabia"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category.php?cat=moslslat-agnaby"
                }
             ]
          },
