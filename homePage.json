@@ -159,12 +159,24 @@
             "tag":"cimaTokTok",
             "itemHome":[
                {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/movies-33/افلام-اجنبي/"
+               },
+               {
                   "name":"مسلسلات اجنبية",
                   "sousUrl":"/category/series-9/مسلسلات-اجنبي/"
                },
                {
-                  "name":"افلام اجنبية",
-                  "sousUrl":"/category/movies-33/افلام-اجنبي/"
+                  "name":"برامج تلفزيونية",
+                  "sousUrl":"/category/tvshows-1/"
+               },
+               {
+                  "name":"افلام كارتون",
+                  "sousUrl":"/category/anime-6/افلام-انمي/"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/category/anime-6/انمي-مترجم/"
                }
             ]
          },
