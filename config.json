@@ -1,15 +1,16 @@
 {
    "data":{
       "Config":{
-       "ads_player" : "NO_SHOW",
-        "virsion_player" : 15,
-         "virsion_mycima": 1,
-         "packege_search" :"",
-         "link_search" :"",
-         "signature" :"",
-         "ads" :{
+         "ads_player":"NO_SHOW",
+         "virsion_player":15,
+         "virsion_mycima":1,
+         "packege_search":"",
+         "link_search":"",
+         "signature":"",
+         "ads":{
             "image":"",
-             "url" :""
+            "url":""
          }
-         }
+      }
+   }
 }
