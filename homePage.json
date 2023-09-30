@@ -240,8 +240,18 @@
                   "sousUrl":"/category/serie/korea/"
                },
                {
-                  "name":"افلام اسيوية",
-                  "sousUrl":"/category/الافلام-الآسيوية/"
+                  "name":"الدراما اليابانية",
+                  "sousUrl":"/category/serie/japanese/"
+               }
+               ,
+               {
+                  "name":"الدراما التايلاندية",
+                  "sousUrl":"/category/serie/tailand/"
+               }
+               ,
+               {
+                  "name":"اخر الحلقات المضافة",
+                  "sousUrl":"/category/episodes/new/other/"
                
                }
             ]
