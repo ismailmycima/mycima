@@ -184,12 +184,24 @@
             "tag":"faselHd",
             "itemHome":[
                {
-                  "name":"مسلسلات اجنبية",
-                  "sousUrl":"/asian-episodes"
-               },
-               {
                   "name":"افلام اجنبية",
                   "sousUrl":"/movies"
+               },
+               {
+                  "name":"المسلسلات الاعلي مشاهدة",
+                  "sousUrl":"/asian_top_views"
+               },
+               {
+                  "name":"افضل مسلسلات هذا الشهر",
+                  "sousUrl":"/best_series_in_month"
+               },
+               {
+                  "name":"الأفلام المدبلجة",
+                  "sousUrl":"/dubbed-movies"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/anime-episodes"
                }
             ]
          }
