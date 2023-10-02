@@ -77,6 +77,20 @@
                }
             ]
          },
+         ,
+           {
+            "tag":"anime4ever",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/episode/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie-3/"
+               }
+            ]
+         },
          {
             "tag":"akwam",
             "itemHome":[
