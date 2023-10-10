@@ -111,6 +111,19 @@
                }
             ]
          },
+          {
+            "tag":"animewit",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/قائمة-الانمي/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie/"
+               }
+            ]
+         },
          {
             "tag":"akwam",
             "itemHome":[
