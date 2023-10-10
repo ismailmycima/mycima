@@ -44,6 +44,27 @@
             ]
          },
          {
+            "tag":"ahwaktv",
+            "itemHome":[
+               {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               }
+            ]
+         },
+         {
             "tag":"arab_seed",
             "itemHome":[
                {
