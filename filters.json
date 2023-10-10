@@ -21,7 +21,7 @@
             },
              {
                         "image": "",
-                        "tag": "lodynet",
+                        "tag": "lodyNet",
                         "label": "لودي نت",
                          "url":"https://lodynet.cloud"
             },
@@ -78,6 +78,13 @@
                         "tag": "ardrama",
                         "label": "عرب دراما",
                          "url":"https://aradramatv.com"
+            }
+         ,
+            {
+                        "image": "",
+                        "tag": "ahwaktv",
+                        "label": "اهواك تيفي ",
+                         "url":"https://ag.ahwaktv.com"
             }
           ]
 
