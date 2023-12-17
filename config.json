@@ -1,7 +1,16 @@
 {
    "data":{
       "Config":{
-       "Ads" : "NO_SHOW"
-
+         "ads_player":"NO_SHOW",
+         "virsion_player":15,
+         "virsion_mycima":1,
+         "packege_search":"",
+         "link_search":"",
+         "signature":"",
+         "ads":{
+            "image":"",
+            "url":""
+         }
+      }
    }
 }

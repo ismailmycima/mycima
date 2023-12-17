@@ -5,7 +5,19 @@
                         "image": "",
                         "tag": "wecima",
                         "label": "وي سيما",
-                         "url":"https://wecima.click"
+                         "url":"https://weciimaa.online"
+            },
+          {
+                        "image": "",
+                        "tag": "anime4ever",
+                        "label": "انمي فور ايفر",
+                         "url":"https://anime4up.cam"
+            },
+           {
+                        "image": "",
+                        "tag": "animewit",
+                        "label": "انمي ويت",
+                         "url":"https://witanime.sbs"
             },
            {
                         "image": "",
@@ -15,7 +27,7 @@
             },
              {
                         "image": "",
-                        "tag": "lodynet",
+                        "tag": "lodyNet",
                         "label": "لودي نت",
                          "url":"https://lodynet.cloud"
             },
@@ -72,6 +84,13 @@
                         "tag": "ardrama",
                         "label": "عرب دراما",
                          "url":"https://aradramatv.com"
+            }
+         ,
+            {
+                        "image": "",
+                        "tag": "ahwaktv",
+                        "label": "اهواك تيفي ",
+                         "url":"https://ag.ahwaktv.com"
             }
           ]
 

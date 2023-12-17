@@ -14,7 +14,8 @@
                },
                 {
                   "name":"مسلسلات عربية",
-                  "sousUrl":"/category/مسلسلات-series-arabic-مسلسلات-عربية"
+                  "sousUrl":"/category/مسلسلات-رمضان-2023"
+      
                },
                {
                   "name":"مسلسلات اجنبية",
@@ -40,6 +41,27 @@
                {
                   "name":"مسلسلات اجنبية",
                   "sousUrl":"/category.php?cat=moslslat-agnaby"
+               }
+            ]
+         },
+         {
+            "tag":"ahwaktv",
+            "itemHome":[
+               {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category.php?cat=moslslat-msriya"
                }
             ]
          },
@@ -78,6 +100,32 @@
                {
                   "name":"افضل الافلام",
                   "sousUrl":"/category/مسلسلات-نتفليكس/"
+               }
+            ]
+         },
+           {
+            "tag":"anime4ever",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/episode/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie-3/"
+               }
+            ]
+         },
+          {
+            "tag":"animewit",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/قائمة-الانمي/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie/"
                }
             ]
          },
