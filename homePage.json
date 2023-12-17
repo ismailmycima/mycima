@@ -61,6 +61,10 @@
                {
                   "name":"مسلسلات اجنبية",
                   "sousUrl":"/category/foreign-series/"
+               },
+               {
+                  "name":"افلام كرتون",
+                  "sousUrl":"/category/افلام-انيميشن/"
                }
             ]
          },
