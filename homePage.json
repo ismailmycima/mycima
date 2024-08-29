@@ -280,7 +280,7 @@
                },
                {
                   "name":"افلام اجنبية",
-                  "sousUrl":"/category/افلام-اجنبي-movies7-english/"
+                  "sousUrl":"/search/label/افلام%20اجنبية"
                },
                 {
                   "name":"مسلسلات عربية",
@@ -288,7 +288,7 @@
                },
                {
                   "name":"مسلسلات اجنبية",
-                  "sousUrl":"/category/series/مسلسلات-اجنبي-english/"
+                  "sousUrl":"/search/label/مسلسلات%20اجنبي"
                }
             ]
          },
