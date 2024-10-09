@@ -1,15 +1,17 @@
 {
-   "data":{
-      "Config":{
-         "ads":[{
-               "image":"https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-               "type":"ads",
-               "link" :"https://t.me/mycimavip"
-             }
+   "data": {
+      "Config": {
+         "ads": [
+            {
+               "image": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+               "type": "ads",
+               "link": "https://t.me/mycimavip"
+            }
          ],
-         "virsion_player":15,
-         "virsion_mycima":1,
-         "link_update":"",
+         "virsion_player": 15,
+         "virsion_mycima": 1,
+         "link_update": ""
       }
    }
 }
+
