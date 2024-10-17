@@ -14,16 +14,7 @@
                         "label": "انمي فور ايفر",
                         "isTv": false,
                          "url":"https://anime4up.lol"
-            },
-           {
-                        "image": "",
-                        "tag": "animewit",
-                        "label": "انمي ويت",
-                          "isTv": false,
-                         "url":"https://witanime.sbs"
-            },
-          
-             {
+            },  {
                         "image": "",
                         "tag": "lodyNet",
                         "label": "لودي نت",
