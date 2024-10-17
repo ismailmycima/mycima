@@ -5,30 +5,29 @@
                         "image": "",
                         "tag": "wecima",
                         "label": "وي سيما",
+                         "isTv": false,
                          "url":"https://wecima.movie"
             },
           {
                         "image": "",
                         "tag": "anime4ever",
                         "label": "انمي فور ايفر",
+                        "isTv": false,
                          "url":"https://anime4up.lol"
             },
            {
                         "image": "",
                         "tag": "animewit",
                         "label": "انمي ويت",
+                          "isTv": false,
                          "url":"https://witanime.sbs"
             },
-           {
-                        "image": "",
-                        "tag": "dramaCafe",
-                        "label": "دراما كافي",
-                         "url":"https://w26.dramacafe-tv.com"
-            },
+          
              {
                         "image": "",
                         "tag": "lodyNet",
                         "label": "لودي نت",
+                           "isTv": false,
                          "url":"https://llodynet.site"
             },
             {
@@ -47,50 +46,37 @@
                         "image": "",
                         "tag": "egydead",
                         "label": "اجي ديد",
+                         "isTv": false,
                          "url":"https://egydead.space"
             },
             {
                         "image": "",
                         "tag": "arabLionz",
                         "label": "عرب ليونز",
+                          "isTv": false,
                          "url":"https://arablionztv.com"
             },
             {
                         "image": "",
                         "tag": "cimaTokTok",
                         "label": "سيما تكتك",
+                          "isTv": false,
                          "url":"https://www.tuktukcima.com"
             },
-            {
-                        "image": "",
-                        "tag": "faselHd",
-                        "label": "فاصل اعلاني",
-                         "url":"https://www.faselhds.care"
-            },
+          
             {
                         "image": "",
                         "tag": "qiste",
                         "label": "قصة عشق ",
+                          "isTv": false,
                          "url":"https://3isk.biz"
             },
             {
                         "image": "",
                         "tag": "cima4u",
                         "label": "سيما فور يو",
+                         "isTv": false,
                          "url":"https://www.cima4-u.com"
-            },
-            {
-                        "image": "",
-                        "tag": "ardrama",
-                        "label": "عرب دراما",
-                         "url":"https://aradramatv.com"
-            }
-         ,
-            {
-                        "image": "",
-                        "tag": "ahwaktv",
-                        "label": "اهواك تيفي ",
-                         "url":"https://vig.ahwaktv.com"
             }
           ]
 
