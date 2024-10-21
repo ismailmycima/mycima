@@ -25,12 +25,14 @@
                          "image": "",
                         "tag": "akwam",
                         "label": "اكوام",
+                          "isTv": true,
                          "url":"https://ak.sv"
             },
             {
                         "image": "",
                         "tag": "arab_seed",
                         "label": "عرب سيد",
+                         "isTv": true,
                          "url":"https://asd.quest"
             },
             {
