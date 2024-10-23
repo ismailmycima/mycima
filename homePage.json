@@ -6,20 +6,20 @@
             "itemHome":[
                {
                   "name":"افلام عربية",
-                  "sousUrl":"/category/افلام-arabic-movies-افلام-عربي"
+                  "sousUrl":"/category/أفلام/افلام-عربي-arabic-movies/"
                },
                {
                   "name":"افلام اجنبية",
-                  "sousUrl":"/category/افلام-movies-english-افلام-اجنبي"
+                  "sousUrl":"/category/أفلام/10-movies-english-افلام-اجنبي/"
                },
                 {
                   "name":"مسلسلات عربية",
-                  "sousUrl":"/category/مسلسلات-رمضان-2023"
+                  "sousUrl":"/category/مسلسلات/13-مسلسلات-عربيه-arabic-series/"
       
                },
                {
                   "name":"مسلسلات اجنبية",
-                  "sousUrl":"/category/مسلسلات-series-english-مسلسلات-اجنبي"
+                  "sousUrl":"/category/مسلسلات/6-series-english-مسلسلات-اجنبي/"
                }
             ]
          },
@@ -71,6 +71,10 @@
                {
                   "name":"افلام عربية",
                   "sousUrl":"/category/arabic-movies-5/"
+               },
+               {
+                  "name":"مصارعة",
+                  "sousUrl":"/category/wwe-shows/"
                },
                {
                   "name":"افلام اجنبية",
