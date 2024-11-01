@@ -202,12 +202,21 @@
             "tag":"lodyNet",
             "itemHome":[
                {
-                  "name":"مسلسلات اجنبية",
+                  "name":"افلام باكسناتية",
                   "sousUrl":"/tag/افلام-باكستانية-مترجمة/"
                },
                {
-                  "name":"افلام اجنبية",
+                  "name":"افلام هندية",
+                  "sousUrl":"/category/افلام-هندية/"
+               },
+               {
+                  "name":"مسلسلات هندية",
                   "sousUrl":"/category/مسلسلات-هنديه/"
+               }
+               ,
+               {
+                  "name":"مسلسلات تركية",
+                  "sousUrl":"/dubbed-turkish-series-g/"
                }
             ]
          },
