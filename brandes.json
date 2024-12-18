@@ -1,4 +1,6 @@
-[
+{
+"data":{
+    "brands" : [
   {
     "id": 1,
     "name": "danone",
@@ -30,3 +32,5 @@
     "images": "https://companieslogo.com/img/orig/KO-b23a2a5e.png?t=1720244492"
   }
 ]
+  }
+}
