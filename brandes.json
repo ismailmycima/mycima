@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "danone",
+    "images": "https://1000logos.net/wp-content/uploads/2020/03/Danone-Logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Jawda",
+    "images": "https://seeklogo.com/images/J/jaouda-logo-A87DF13836-seeklogo.com.png"
+  },
+  {
+    "id": 3,
+    "name": "Dari",
+    "images": "https://www.couscousdari.com/sites/default/files/logo-dari.png"
+  },
+  {
+    "id": 4,
+    "name": "pepsi",
+    "images": "https://cdn.iconscout.com/icon/free/png-256/free-pepsi-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722731.png?f=webp&w=256"
+  },
+  {
+    "id": 5,
+    "name": "Bimo",
+    "images": "https://iconape.com/wp-content/png_logo_vector/%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A8%D9%8A%D9%85%D9%88.png"
+  },
+  {
+    "id": 6,
+    "name": "coca cola",
+    "images": "https://companieslogo.com/img/orig/KO-b23a2a5e.png?t=1720244492"
+  }
+]
