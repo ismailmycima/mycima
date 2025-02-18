@@ -6,20 +6,20 @@
                         "tag": "wecima",
                         "label": "وي سيما",
                          "isTv": false,
-                         "url":"https://wecima.movie"
+                         "url":"https://wecima.watch"
             },
           {
                         "image": "",
                         "tag": "anime4ever",
                         "label": "انمي فور ايفر",
                         "isTv": false,
-                         "url":"https://anime4up.lol"
+                         "url":"https://anime4up.rest"
             },  {
                         "image": "",
                         "tag": "lodyNet",
                         "label": "لودي نت",
                            "isTv": false,
-                         "url":"https://llodynet.site"
+                         "url":"https://lodynet.io"
             },
             {
                          "image": "",
@@ -33,14 +33,14 @@
                         "tag": "arab_seed",
                         "label": "عرب سيد",
                          "isTv": true,
-                         "url":"https://asd.quest"
+                         "url":"https://asd.rest"
             },
             {
                         "image": "",
                         "tag": "egydead",
                         "label": "اجي ديد",
                          "isTv": false,
-                         "url":"https://egydead.space"
+                         "url":"https://egydead.fyi"
             },
             {
                         "image": "",
@@ -54,7 +54,7 @@
                         "tag": "cimaTokTok",
                         "label": "سيما تكتك",
                           "isTv": false,
-                         "url":"https://www.tuktukcima.com"
+                         "url":"https://www.tuktukcinma.com"
             },
           
         
