@@ -5,6 +5,10 @@
             "tag":"wecima",
             "itemHome":[
                {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/category/مسلسلات/مسلسلات-رمضان-2025/"
+               },
+               {
                   "name":"افلام عربية",
                   "sousUrl":"/category/أفلام/افلام-عربي-arabic-movies/"
                },
@@ -68,6 +72,10 @@
          {
             "tag":"arab_seed",
             "itemHome":[
+               {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/category/مسلسلات-رمضان/ramadan-series-2025/"
+               },
                {
                   "name":"افلام عربية",
                   "sousUrl":"/category/arabic-movies-5/"
@@ -136,6 +144,10 @@
          {
             "tag":"akwam",
             "itemHome":[
+               {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/series?section=29&category=0&rating=0&year=0&language=0&formats=0&quality=0"
+               },
                {
                   "name":"اخر الاضافات",
                   "sousUrl":"/series"
