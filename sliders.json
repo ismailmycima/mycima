@@ -1,0 +1,347 @@
+{
+   "data":{
+      "homePage":[
+         {
+            "tag":"wecima",
+            "itemHome":[
+               {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/category/مسلسلات/مسلسلات-رمضان-2025/"
+               },
+               {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/أفلام/افلام-عربي-arabic-movies/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/أفلام/10-movies-english-افلام-اجنبي/"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/مسلسلات/13-مسلسلات-عربيه-arabic-series/"
+      
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/مسلسلات/6-series-english-مسلسلات-اجنبي/"
+               }
+            ]
+         },
+         {
+            "tag":"cimaclub",
+            "itemHome":[
+               {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/all-content/all-movies/افلام-عربى/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/all-content/all-movies/افلام-اجنبي/"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/مسلسلات-رمضان-2025/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/all-content/all-series/مسلسلات-اجنبي/"
+               }
+            ]
+         },
+         {
+            "tag":"TopCinema",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اسيوية",
+                  "sousUrl":"/category/مسلسلات-اسيوية-4/?key=episodes"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/افلام-اجنبي-2/"
+               },
+                {
+                  "name":"افلام اسوية",
+                  "sousUrl":"/category/افلام-اسيوي/"
+               },
+               {
+                  "name":"مسلسلات انمي",
+                  "sousUrl":"/category/مسلسلات-انمي/?key=episodes"
+               }
+            ]
+         },
+         {
+            "tag":"arab_seed",
+            "itemHome":[
+               {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/category/مسلسلات-رمضان/ramadan-series-2025/"
+               },
+               {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/arabic-movies-5/"
+               },
+               {
+                  "name":"مصارعة",
+                  "sousUrl":"/category/wwe-shows/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/foreign-movies/"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/arabic-series"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/foreign-series/"
+               },
+               {
+                  "name":"افلام كرتون",
+                  "sousUrl":"/category/افلام-انيميشن/"
+               }
+            ]
+         },
+           {
+            "tag":"cimaNow",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/category/افلام-نتفليكس/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/category/مسلسلات-نتفليكس/"
+               }
+            ]
+         },
+           {
+            "tag":"anime4ever",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/episode/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie-3/"
+               }
+            ]
+         },
+          {
+            "tag":"animewit",
+            "itemHome":[
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/قائمة-الانمي/"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/anime-type/movie/"
+               }
+            ]
+         },
+         {
+            "tag":"akwam",
+            "itemHome":[
+               {
+                  "name":"مسلسلات رمضان",
+                  "sousUrl":"/series?section=29&category=0&rating=0&year=0&language=0&formats=0&quality=0"
+               },
+               {
+                  "name":"اخر الاضافات",
+                  "sousUrl":"/series"
+               },
+               {
+                  "name":"افضل الافلام",
+                  "sousUrl":"/movies"
+               }
+            ]
+         },
+          {
+            "tag":"egydead",
+            "itemHome":[
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/"
+               },
+               {
+                  "name":"مسلسلات اسيوية",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/"
+               },
+               {
+                  "name":"افلام اسيوية",
+                  "sousUrl":"/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d8%a9/"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/series-category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/"
+               }
+            
+            ]
+         },
+         
+          {
+            "tag":"arabLionz",
+            "itemHome":[
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/movies/english-movies/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/series/english-series/"
+               },
+               {
+                  "name":"عروض مصارعة",
+                  "sousUrl":"/category/other-shows/wrestling/"
+               },
+               {
+                  "name":"افلام كارتون",
+                  "sousUrl":"/category/movies/cartoon/"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/category/series/anime/"
+               }
+            ]
+         },
+         {
+            "tag":"lodyNet",
+            "itemHome":[
+               {
+                  "name":"افلام باكسناتية",
+                  "sousUrl":"/tag/افلام-باكستانية-مترجمة/"
+               },
+               {
+                  "name":"افلام هندية",
+                  "sousUrl":"/category/افلام-هندية/"
+               },
+               {
+                  "name":"مسلسلات هندية",
+                  "sousUrl":"/category/مسلسلات-هنديه/"
+               }
+               ,
+               {
+                  "name":"مسلسلات تركية",
+                  "sousUrl":"/dubbed-turkish-series-g/"
+               }
+            ]
+         },
+         {
+            "tag":"cimaTokTok",
+            "itemHome":[
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/category/movies-33/افلام-اجنبي/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/category/series-9/مسلسلات-اجنبي/"
+               },
+               {
+                  "name":"برامج تلفزيونية",
+                  "sousUrl":"/category/tvshows-1/"
+               },
+               {
+                  "name":"افلام كارتون",
+                  "sousUrl":"/category/anime-6/افلام-انمي/"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/category/anime-6/انمي-مترجم/"
+               }
+            ]
+         },
+         {
+            "tag":"faselHd",
+            "itemHome":[
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/movies"
+               },
+               {
+                  "name":"المسلسلات الاعلي مشاهدة",
+                  "sousUrl":"/asian_top_views"
+               },
+               {
+                  "name":"افضل مسلسلات هذا الشهر",
+                  "sousUrl":"/best_series_in_month"
+               },
+               {
+                  "name":"الأفلام المدبلجة",
+                  "sousUrl":"/dubbed-movies"
+               },
+               {
+                  "name":"انمي",
+                  "sousUrl":"/anime-episodes"
+               }
+            ]
+         }
+         ,
+         {
+            "tag":"qiste",
+            "itemHome":[
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/watch/tvshows/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/watch/movies/"
+               }
+            ]
+         },
+         {
+            "tag":"cima4u",
+            "itemHome":[
+                {
+                  "name":"افلام عربية",
+                  "sousUrl":"/category/arabic-movies/"
+               },
+               {
+                  "name":"افلام اجنبية",
+                  "sousUrl":"/search/label/افلام%20اجنبية"
+               },
+                {
+                  "name":"مسلسلات عربية",
+                  "sousUrl":"/category/series/مسلسلات-عربية-arabic-series/"
+               },
+               {
+                  "name":"مسلسلات اجنبية",
+                  "sousUrl":"/search/label/مسلسلات%20اجنبي"
+               }
+            ]
+         },
+         {
+            "tag":"ardrama",
+            "itemHome":[
+               {
+                  "name":"الدراما الكورية",
+                  "sousUrl":"/category/serie/korea/"
+               },
+               {
+                  "name":"الدراما اليابانية",
+                  "sousUrl":"/category/serie/japanese/"
+               }
+               ,
+               {
+                  "name":"الدراما التايلاندية",
+                  "sousUrl":"/category/serie/tailand/"
+               }
+               ,
+               {
+                  "name":"اخر الحلقات المضافة",
+                  "sousUrl":"/category/episodes/new/other/"
+               
+               }
+            ]
+         }
+         
+      ]
+   }
+}
