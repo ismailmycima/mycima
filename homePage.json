@@ -28,44 +28,44 @@
             ]
          },
          {
-            "tag":"dramaCafe",
+            "tag":"cimaclub",
             "itemHome":[
                {
                   "name":"افلام عربية",
-                  "sousUrl":"/category.php?cat=aflam-araby1"
+                  "sousUrl":"/category/all-content/all-movies/افلام-عربى/"
                },
                {
                   "name":"افلام اجنبية",
-                  "sousUrl":"/category.php?cat=aflam-agnaby"
+                  "sousUrl":"/category/all-content/all-movies/افلام-اجنبي/"
                },
                 {
                   "name":"مسلسلات عربية",
-                  "sousUrl":"/category.php?cat=moslslat-arabia"
+                  "sousUrl":"/category/مسلسلات-رمضان-2025/"
                },
                {
                   "name":"مسلسلات اجنبية",
-                  "sousUrl":"/category.php?cat=moslslat-agnaby"
+                  "sousUrl":"/category/all-content/all-series/مسلسلات-اجنبي/"
                }
             ]
          },
          {
-            "tag":"ahwaktv",
+            "tag":"TopCinema",
             "itemHome":[
                {
-                  "name":"افلام عربية",
-                  "sousUrl":"/category.php?cat=moslslat-msriya"
+                  "name":"مسلسلات اسيوية",
+                  "sousUrl":"/category/مسلسلات-اسيوية-4/?key=episodes"
                },
                {
                   "name":"افلام اجنبية",
-                  "sousUrl":"/category.php?cat=moslslat-msriya"
+                  "sousUrl":"/category/افلام-اجنبي-2/"
                },
                 {
-                  "name":"مسلسلات عربية",
-                  "sousUrl":"/category.php?cat=moslslat-msriya"
+                  "name":"افلام اسوية",
+                  "sousUrl":"/category/افلام-اسيوي/"
                },
                {
-                  "name":"مسلسلات اجنبية",
-                  "sousUrl":"/category.php?cat=moslslat-msriya"
+                  "name":"مسلسلات انمي",
+                  "sousUrl":"/category/مسلسلات-انمي/?key=episodes"
                }
             ]
          },
