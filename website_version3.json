@@ -1,0 +1,80 @@
+{
+  "data": {
+       "sites" : [
+             {
+                        "image": "",
+                        "tag": "wecima",
+                        "label": "وي سيما",
+                         "isTv": true,
+                         "url":"https://wecima.watch"
+            },
+            {
+                        "image": "",
+                        "tag": "qiste",
+                        "label": "قصة عشف",
+                         "isTv": false,
+                         "url":"https://3isk.biz"
+            },
+        
+            {
+                        "image": "",
+                        "tag": "cimaclub",
+                        "label": "سيما كلوب",
+                         "isTv": true,
+                         "url":"https://cimaclub.watch"
+            },
+            {
+                        "image": "",
+                        "tag": "lodyNet",
+                        "label": "لودي نت",
+                         "isTv": false,
+                         "url":"https://lodynet.io"
+            },
+            {
+                         "image": "",
+                        "tag": "akwam",
+                        "label": "اكوام",
+                          "isTv": true,
+                         "url":"https://ak.sv"
+            },
+            {
+                        "image": "",
+                        "tag": "arab_seed",
+                        "label": "عرب سيد",
+                         "isTv": true,
+                         "url":"https://asd.rest"
+            },
+            {
+                        "image": "",
+                        "tag": "egydead",
+                        "label": "اجي ديد",
+                         "isTv": false,
+                         "url":"https://egydead.fyi"
+            },
+            {
+                        "image": "",
+                        "tag": "arabLionz",
+                        "label": "عرب ليونز",
+                          "isTv": false,
+                         "url":"https://arablionztv.com"
+            },
+            {
+                        "image": "",
+                        "tag": "cimaTokTok",
+                        "label": "سيما تكتك",
+                          "isTv": false,
+                         "url":"https://www.tuktukcinma.com"
+            },
+          
+        
+            {
+                        "image": "",
+                        "tag": "TopCinema",
+                        "label": "طوب سينما",
+                         "isTv": false,
+                         "url":"https://web2.topcinema.cam"
+            }
+          ]
+
+   }
+}
